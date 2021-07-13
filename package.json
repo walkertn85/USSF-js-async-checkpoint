@@ -1,0 +1,30 @@
+{
+  "name": "ussf-js-async-checkpoint",
+  "version": "1.0.0",
+  "description": "This project will evaluate your ability to work with asynchronous, non-blocking Javascript code. The goal of this checkpoint is not to finish quickly, but rather to do the best you can so we can gauge where everyone in the class is at and how well you're absorbing the material. Take your time and don't stress out!",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bluebird": "^3.7.2",
+    "fetch": "^1.1.0",
+    "node": "^16.4.1",
+    "node-fetch": "^2.6.1",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walkertn85/USSF-js-async-checkpoint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walkertn85/USSF-js-async-checkpoint/issues"
+  },
+  "homepage": "https://github.com/walkertn85/USSF-js-async-checkpoint#readme"
+}
